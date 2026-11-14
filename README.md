@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orhan Doğan Kaplan</h1>
 <h3 align="center">A passionate Cybersecurity Specialist from Turkey</h3>
 
-- 🔭 I’m currently working on [Cybersecurity tools and network analysis automations](https://github.com/kaplanorhandogan?tab=repositories)
+- 🔭 I’m currently working on [Cybersecurity tools and network analysis automations](https://github.com/orhandogankaplan?tab=repositories)
 
 - 🌱 I’m currently learning **Advanced penetration testing and network security protocols**
 
