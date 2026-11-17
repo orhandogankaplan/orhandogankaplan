@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="205" viewBox="0 0 440 205" role="img" aria-labelledby="title desc">
+  <title id="title">Price Drop Tracker</title>
+  <desc id="desc">Product and crypto price alerts, built with Python  ·  SQLite  ·  Telegram / Discord.</desc>
+  <rect x="1" y="1" width="438" height="203" rx="20" fill="#0d1928" stroke="#24364a" stroke-width="2"/>
+  <rect x="24" y="25" width="48" height="5" rx="3" fill="#f2bb68"/>
+  <text x="410" y="43" text-anchor="end" fill="#60758b" font-family="Consolas, monospace" font-size="14">/03</text>
+  <text x="26" y="88" fill="#f4f8fc" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Price Drop Tracker</text>
+  <text x="26" y="124" fill="#a9bacb" font-family="Segoe UI, Arial, sans-serif" font-size="16">Product and crypto price alerts</text>
+  <line x1="26" y1="151" x2="414" y2="151" stroke="#26394d"/>
+  <text x="26" y="179" fill="#f2bb68" font-family="Consolas, monospace" font-size="13">Python  ·  SQLite  ·  Telegram / Discord</text>
+</svg>

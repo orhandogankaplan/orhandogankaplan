@@ -1,20 +1,34 @@
-<h1 align="center">Hi, I'm Orhan Doğan Kaplan 👋</h1>
-<h3 align="center">IT Systems and Technologies student in Türkiye | Python, automation, and practical IT tools</h3>
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Orhan Doğan Kaplan — IT Systems and Technologies student in Türkiye, building Python and automation projects" />
+</p>
 
-I build small tools that make everyday computer tasks easier, with a focus on Python and desktop utilities.
+<h2 align="center">Selected Projects</h2>
 
-### Current projects
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="https://github.com/orhandogankaplan/ProcWatch"><img src="./assets/procwatch.svg" width="100%" alt="ProcWatch: process monitor and resource optimizer built with Python for Windows and Linux" /></a></td>
+    <td width="33%" align="center"><a href="https://github.com/orhandogankaplan/NeatFlow"><img src="./assets/neatflow.svg" width="100%" alt="NeatFlow: Python and Tkinter Downloads organizer for Windows" /></a></td>
+    <td width="33%" align="center"><a href="https://github.com/orhandogankaplan/price-drop-tracker"><img src="./assets/price-drop-tracker.svg" width="100%" alt="Price Drop Tracker: product and crypto price alerts using SQLite, Telegram, and Discord" /></a></td>
+  </tr>
+</table>
 
-- [ProcWatch](https://github.com/orhandogankaplan/ProcWatch) — process monitoring and resource management with user-level safeguards.
-- [NeatFlow](https://github.com/orhandogankaplan/NeatFlow) — organizes the Downloads folder and notifies you about cleanup.
-- [Price Drop Tracker](https://github.com/orhandogankaplan/price-drop-tracker) — tracks product and crypto prices and sends alerts.
+<h2 align="center">What I'm learning</h2>
 
-### Learning and collaboration
+<p align="center">Python · Linux · Networking · Cybersecurity fundamentals · Desktop automation</p>
 
-- Currently learning more about Linux, networking, and cybersecurity fundamentals.
-- Interested in collaborating on practical open-source IT and automation tools.
+<p align="center">I enjoy building useful tools, improving them through feedback, and contributing to practical open-source projects.</p>
 
-### Find me
+<h2 align="center">Activity</h2>
 
-- [DEV Community](https://dev.to/orhandogankaplan)
-- [Instagram](https://instagram.com/orhandkaplan)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orhandogankaplan/orhandogankaplan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orhandogankaplan/orhandogankaplan/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/orhandogankaplan/orhandogankaplan/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution graph animation" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://dev.to/orhandogankaplan">DEV Community</a> &nbsp;·&nbsp;
+  <a href="https://instagram.com/orhandkaplan">Instagram</a>
+</p>

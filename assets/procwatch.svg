@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="205" viewBox="0 0 440 205" role="img" aria-labelledby="title desc">
+  <title id="title">ProcWatch</title>
+  <desc id="desc">Process monitor and resource optimizer, built with Python  ·  Windows  ·  Linux.</desc>
+  <rect x="1" y="1" width="438" height="203" rx="20" fill="#0d1928" stroke="#24364a" stroke-width="2"/>
+  <rect x="24" y="25" width="48" height="5" rx="3" fill="#53d7c4"/>
+  <text x="410" y="43" text-anchor="end" fill="#60758b" font-family="Consolas, monospace" font-size="14">/01</text>
+  <text x="26" y="88" fill="#f4f8fc" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">ProcWatch</text>
+  <text x="26" y="124" fill="#a9bacb" font-family="Segoe UI, Arial, sans-serif" font-size="16">Process monitor and resource optimizer</text>
+  <line x1="26" y1="151" x2="414" y2="151" stroke="#26394d"/>
+  <text x="26" y="179" fill="#53d7c4" font-family="Consolas, monospace" font-size="13">Python  ·  Windows  ·  Linux</text>
+</svg>
