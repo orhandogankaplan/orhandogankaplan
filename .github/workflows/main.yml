@@ -18,6 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Render profile cards from public GitHub data
+        run: python3 scripts/render_profile_cards.py --output dist/cards
+
       - uses: Platane/snk@v3
         with:
           github_user_name: orhandogankaplan
@@ -25,9 +28,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
-
-      - name: Render profile cards from public GitHub data
-        run: python3 scripts/render_profile_cards.py --output dist/cards
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
