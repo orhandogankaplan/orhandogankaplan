@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="205" viewBox="0 0 440 205" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="190" viewBox="0 0 520 190" role="img" aria-labelledby="title desc">
   <title id="title">Price Drop Tracker</title>
-  <desc id="desc">Product and crypto price alerts, built with Python  ·  SQLite  ·  Telegram / Discord.</desc>
-  <rect x="1" y="1" width="438" height="203" rx="20" fill="#0d1928" stroke="#24364a" stroke-width="2"/>
-  <rect x="24" y="25" width="48" height="5" rx="3" fill="#f2bb68"/>
-  <text x="410" y="43" text-anchor="end" fill="#60758b" font-family="Consolas, monospace" font-size="14">/03</text>
-  <text x="26" y="88" fill="#f4f8fc" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Price Drop Tracker</text>
-  <text x="26" y="124" fill="#a9bacb" font-family="Segoe UI, Arial, sans-serif" font-size="16">Product and crypto price alerts</text>
-  <line x1="26" y1="151" x2="414" y2="151" stroke="#26394d"/>
-  <text x="26" y="179" fill="#f2bb68" font-family="Consolas, monospace" font-size="13">Python  ·  SQLite  ·  Telegram / Discord</text>
+  <desc id="desc">Product and crypto price alerts; Python  ·  SQLite  ·  Telegram / Discord.</desc>
+  <rect x="1" y="1" width="518" height="188" rx="18" fill="#0d1117" stroke="#263238" stroke-width="2"/>
+  <rect x="23" y="23" width="44" height="4" rx="2" fill="#b3e6a0"/>
+  <text x="493" y="39" text-anchor="end" fill="#65756a" font-family="Consolas, monospace" font-size="13">/04</text>
+  <text x="24" y="78" fill="#e6f0e8" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">Price Drop Tracker</text>
+  <text x="24" y="111" fill="#aab8ad" font-family="Segoe UI, Arial, sans-serif" font-size="15">Product and crypto price alerts</text>
+  <line x1="24" y1="135" x2="496" y2="135" stroke="#263238"/>
+  <text x="24" y="163" fill="#b3e6a0" font-family="Consolas, monospace" font-size="13">Python  ·  SQLite  ·  Telegram / Discord</text>
 </svg>
