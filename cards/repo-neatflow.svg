@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="205" viewBox="0 0 600 205" role="img" aria-labelledby="title desc">
+<title id="title">NeatFlow</title><desc id="desc">A Windows desktop app that organizes Downloads and cleans up old inst…. Python. 1 stars.</desc>
+<rect x="1" y="1" width="598" height="203" rx="18" fill="#0d1117" stroke="#263238" stroke-width="2"/><rect x="24" y="23" width="54" height="4" rx="2" fill="#39d353"/>
+<text x="24" y="71" fill="#e6f0e8" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">NeatFlow</text><text x="24" y="106" fill="#9aa89e" font-family="Segoe UI,Arial,sans-serif" font-size="16">A Windows desktop app that organizes Downloads and cleans up old inst…</text>
+<line x1="24" y1="133" x2="576" y2="133" stroke="#263238"/><text x="24" y="166" fill="#39d353" font-family="Consolas,monospace" font-size="13">PYTHON</text><text x="576" y="166" text-anchor="end" fill="#9aa89e" font-family="Consolas,monospace" font-size="13">★ 1   ·   2026-11</text>
+</svg>
